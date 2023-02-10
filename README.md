@@ -1,4 +1,5 @@
 # Web-Crawler-on-Unsplash
+
 ## Installation
 ##### I use Anaconda , but you can try to use other environment
 1. First download ZIP
@@ -12,6 +13,13 @@
     
 4. Done
 
+## Version 
+##### choose your .py file
+
+Window :  `webcrawler_unsplash.py`
+    
+Linux :   `webcrawler_linux_unsplash.py`
+    
 ## Demo
 ##### Demo Video Link : https://youtu.be/3uqz4lYCJj4
 1. First enter your image category
