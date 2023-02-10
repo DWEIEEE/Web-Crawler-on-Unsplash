@@ -6,20 +6,21 @@
 2. Install required libraries ( selenium , webdriver-manager , requests , beautifulsoup4 , Pillow )
 
     `pip install -r requirements.txt`
+    
+3. choose your .py file
+
+    Window :  `webcrawler_unsplash.py` 
+    
+    Linux :   `webcrawler_linux_unsplash.py`
   
-3. CMD Execute program
+4. CMD Execute program
 
-    `python webcrawler_unsplash.py`
+    Window :  `python webcrawler_unsplash.py`
     
-4. Done
+    Linux :   `python webcrawler_linux_unsplash.py`
+    
+5. Done
 
-## Version 
-##### choose your .py file
-
-Window :  `webcrawler_unsplash.py`
-    
-Linux :   `webcrawler_linux_unsplash.py`
-    
 ## Demo
 ##### Demo Video Link : https://youtu.be/3uqz4lYCJj4
 1. First enter your image category
